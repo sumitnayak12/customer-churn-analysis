@@ -18,7 +18,6 @@ This project analyzes customer churn data to identify patterns and factors assoc
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Spyder
 - SQL
 
